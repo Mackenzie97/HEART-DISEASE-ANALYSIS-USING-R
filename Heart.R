@@ -34,3 +34,11 @@ boxplot(age ~ cp,data=data1,xlab = 'cp', ylab='No Of Age',main="Datails Of Heart
 ss <- data1[1:270,c("trestbps","thalach")]
 print(ss)
 plot(x=data1$thalach,xlab = "Trestbps",ylab="Thalach",main="Trestbps VS Thalach", col='red')
+
+
+# Trestbps level vs Chol level( persons resting blood pressure vs cholesterol level)
+library(ggplot2)
+gg <- ggplot(data1,aes(x=chol,y=trestbps))+
+  geom_point(aes(col=target))
+plot(gg)
+
