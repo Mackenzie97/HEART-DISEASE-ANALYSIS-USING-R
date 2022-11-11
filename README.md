@@ -3,18 +3,23 @@ Heart diseases are complicated and take away lots of life's every year.
 From the analysis i have done i have noticed that people above 55 years of age have high cholesterol levels thus leading to heart diseses.
 Also high cp levels have a lead cause to heart failure.
 
-
-[OLD PEAK IN HEART DISEASE.pdf](https://github.com/Mackenzie97/HEART-DISEASE-ANALYSIS-USING-R/files/9990738/OLD.PEAK.IN.HEART.DISEASE.pdf)
-
-[TRESTBPS vs THALACH.pdf](https://github.com/Mackenzie97/HEART-DISEASE-ANALYSIS-USING-R/files/9990740/TRESTBPS.vs.THALACH.pdf)
-
-[Trestbps level vs Chol level( persons resting blood pressure vs cholesterol level).pdf](https://github.com/Mackenzie97/HEART-DISEASE-ANALYSIS-USING-R/files/9990741/Trestbps.level.vs.Chol.level.persons.resting.blood.pressure.vs.cholesterol.level.pdf)
-
-[Box Plot Illustrating Details of Hear Attack Patients.pdf](https://github.com/Mackenzie97/HEART-DISEASE-ANALYSIS-USING-R/files/9990744/Box.Plot.Illustrating.Details.of.Hear.Attack.Patients.pdf)
+![A bar graph showing the frequency of Age_page-0001](https://user-images.githubusercontent.com/43335958/201362172-74ef69c6-1ffa-4e2e-a2ab-6a5727377ed4.jpg)
 
 
-[A bar graph showing the frequency of Age.pdf](https://github.com/Mackenzie97/HEART-DISEASE-ANALYSIS-USING-R/files/9990749/A.bar.graph.showing.the.frequency.of.Age.pdf)
+![TRESTBPS vs THALACH_page-0001](https://user-images.githubusercontent.com/43335958/201362041-40ed8398-4439-4888-89ca-74945f318815.jpg)
 
 
-[Heart Details of male and female cholesterol levels.pdf](https://github.com/Mackenzie97/HEART-DISEASE-ANALYSIS-USING-R/files/9990753/Heart.Details.of.male.and.female.cholesterol.levels.pdf)
+![Trestbps level vs Chol level( persons resting blood pressure vs cholesterol level)_page-0001](https://user-images.githubusercontent.com/43335958/201362070-db312712-837d-4180-88bc-2f9a3a77b796.jpg)
 
+
+![OLD PEAK IN HEART DISEASE_page-0001](https://user-images.githubusercontent.com/43335958/201362087-0da2a31e-476e-4c33-876e-3bc12a28c373.jpg)
+
+
+![Heart Details of male and female cholesterol levels_page-0001](https://user-images.githubusercontent.com/43335958/201362111-1f273e6d-984f-48a7-b9c9-fcdbcef2c35e.jpg)
+
+
+![Box Plot Illustrating Details of Hear Attack Patients_page-0001](https://user-images.githubusercontent.com/43335958/201362131-aa6d4f0a-8c91-4597-b94c-c6dedd1a8e40.jpg)
+
+
+
+![Box Plot Illustrating Details of Hear Attack Patients_page-0001](https://user-images.githubusercontent.com/43335958/201362237-7573648d-7697-48c6-a0f2-dff91939cf5b.jpg)
