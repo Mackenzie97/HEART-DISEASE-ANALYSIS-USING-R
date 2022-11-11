@@ -15,8 +15,6 @@ Also high cp levels have a lead cause to heart failure.
 ![OLD PEAK IN HEART DISEASE_page-0001](https://user-images.githubusercontent.com/43335958/201362087-0da2a31e-476e-4c33-876e-3bc12a28c373.jpg)
 
 
-![Heart Details of male and female cholesterol levels_page-0001](https://user-images.githubusercontent.com/43335958/201362111-1f273e6d-984f-48a7-b9c9-fcdbcef2c35e.jpg)
-
 
 ![Box Plot Illustrating Details of Hear Attack Patients_page-0001](https://user-images.githubusercontent.com/43335958/201362131-aa6d4f0a-8c91-4597-b94c-c6dedd1a8e40.jpg)
 
