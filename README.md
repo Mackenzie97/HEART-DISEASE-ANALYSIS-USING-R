@@ -20,4 +20,3 @@ Also high cp levels have a lead cause to heart failure.
 
 
 
-![Box Plot Illustrating Details of Hear Attack Patients_page-0001](https://user-images.githubusercontent.com/43335958/201362237-7573648d-7697-48c6-a0f2-dff91939cf5b.jpg)
